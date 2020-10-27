@@ -1,0 +1,6 @@
+print("hello world")
+print('白板', '书写', "的", '擦除功能')
+print((1+2+3+4+5)*2)
+print('100 * 200', 100 * 200)
+name = input()
+print('hello', name)
