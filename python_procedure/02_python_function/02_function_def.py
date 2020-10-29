@@ -37,7 +37,7 @@ def quadratic(a, b, c):
     else:
         qx1 = (-b + qx) / 2 * a
         qx2 = (-b - qx) / 2 * a
-    return qx1, qx2
+        return qx1, qx2
 print(quadratic(3, 5, 2))
 
 

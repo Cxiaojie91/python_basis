@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55a9042b-5737-40c5-8bcf-98ed0543ea84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Python学习笔记/02.Python函数/00.function基础.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Python学习笔记/02.Python函数/01.function调用.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Python学习笔记/02.Python函数/02.function定义.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Python学习笔记/02.Python函数/03.function参数.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/Python学习笔记/02.Python函数/04.function递归.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_procedure/02_python_function/01_function_call.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_procedure/02_python_function/02_function_def.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_procedure/02_python_function/03_function_parameter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_procedure/02_python_function/04_function_recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Python学习笔记/03.Python高级特性.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_procedure/02_python_function/00_function_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_procedure/03_python_HighPeculiarity.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Python基础知识/00.学习网站记录.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Python基础知识/01.Python的简介和优缺点.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Python基础知识/02.python的安装(各个平台).md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_procedure/02_python_function/02_function_def.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_procedure/02_python_function/02_function_def.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_procedure/02_python_function/04_function_recursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_procedure/02_python_function/04_function_recursion.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +24,9 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="/usr/bin/git" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GithubProjectSettings">
     <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
@@ -45,7 +40,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -59,8 +54,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.04_function_recursion">
-    <configuration name="01_function_call" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.03_python_HighPeculiarity">
+    <configuration name="00_function_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_basis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,7 +67,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_procedure/02_python_function/01_function_call.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_procedure/02_python_function/00_function_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,6 +118,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="03_python_HighPeculiarity" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_basis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_procedure" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_procedure/03_python_HighPeculiarity.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="04_function_recursion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_basis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,34 +160,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09_dict_set" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_basis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_procedure" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_procedure/09_dict_set.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03_python_HighPeculiarity" />
+        <item itemvalue="Python.00_function_sum" />
         <item itemvalue="Python.04_function_recursion" />
-        <item itemvalue="Python.03_function_parameter" />
         <item itemvalue="Python.02_function_def" />
-        <item itemvalue="Python.01_function_call" />
-        <item itemvalue="Python.09_dict_set" />
+        <item itemvalue="Python.03_function_parameter" />
       </list>
     </recent_temporary>
   </component>
@@ -186,6 +181,21 @@
       <option name="presentableId" value="Default" />
       <updated>1599046873594</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1603770398726</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603770398726</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1603770444060</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603770444060</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,5 +210,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
